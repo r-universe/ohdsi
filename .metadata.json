@@ -1,0 +1,34 @@
+[
+  {
+    "package": "Andromeda",
+    "oncran": true
+  },
+  {
+    "package": "Cyclops",
+    "oncran": true
+  },
+  {
+    "package": "DatabaseConnector",
+    "oncran": true
+  },
+  {
+    "package": "DatabaseConnectorJars",
+    "oncran": true
+  },
+  {
+    "package": "EmpiricalCalibration",
+    "oncran": true
+  },
+  {
+    "package": "EvidenceSynthesis",
+    "oncran": true
+  },
+  {
+    "package": "ParallelLogger",
+    "oncran": true
+  },
+  {
+    "package": "SqlRender",
+    "oncran": true
+  }
+]
