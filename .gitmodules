@@ -8,11 +8,6 @@
 	url = https://github.com/ohdsi/andromeda
 	shallow = true
 	registered = true
-[submodule "Cyclops"]
-	path = Cyclops
-	url = https://github.com/ohdsi/cyclops
-	shallow = true
-	registered = true
 [submodule "DatabaseConnector"]
 	path = DatabaseConnector
 	url = https://github.com/ohdsi/databaseconnector
@@ -26,11 +21,6 @@
 [submodule "EmpiricalCalibration"]
 	path = EmpiricalCalibration
 	url = https://github.com/ohdsi/empiricalcalibration
-	shallow = true
-	registered = true
-[submodule "EvidenceSynthesis"]
-	path = EvidenceSynthesis
-	url = https://github.com/ohdsi/evidencesynthesis
 	shallow = true
 	registered = true
 [submodule "ParallelLogger"]
