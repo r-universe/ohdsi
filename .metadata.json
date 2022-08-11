@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "Cyclops",
+    "oncran": true
+  },
+  {
     "package": "DatabaseConnector",
     "oncran": true
   },
