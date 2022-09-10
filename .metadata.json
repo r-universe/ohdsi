@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "EvidenceSynthesis",
+    "oncran": true
+  },
+  {
     "package": "ParallelLogger",
     "oncran": true
   },
