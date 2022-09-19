@@ -23,11 +23,6 @@
 	url = https://github.com/ohdsi/databaseconnectorjars
 	shallow = true
 	registered = true
-[submodule "EmpiricalCalibration"]
-	path = EmpiricalCalibration
-	url = https://github.com/ohdsi/empiricalcalibration
-	shallow = true
-	registered = true
 [submodule "EvidenceSynthesis"]
 	path = EvidenceSynthesis
 	url = https://github.com/ohdsi/evidencesynthesis

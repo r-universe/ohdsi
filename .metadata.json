@@ -16,10 +16,6 @@
     "oncran": true
   },
   {
-    "package": "EmpiricalCalibration",
-    "oncran": true
-  },
-  {
     "package": "EvidenceSynthesis",
     "oncran": true
   },
