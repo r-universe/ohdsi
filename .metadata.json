@@ -1,26 +1,10 @@
 [
   {
-    "package": "Andromeda",
-    "oncran": true
-  },
-  {
     "package": "Cyclops",
     "oncran": true
   },
   {
-    "package": "DatabaseConnector",
-    "oncran": true
-  },
-  {
-    "package": "DatabaseConnectorJars",
-    "oncran": true
-  },
-  {
     "package": "EmpiricalCalibration",
-    "oncran": true
-  },
-  {
-    "package": "EvidenceSynthesis",
     "oncran": true
   },
   {
@@ -29,6 +13,22 @@
   },
   {
     "package": "SqlRender",
+    "oncran": true
+  },
+  {
+    "package": "DatabaseConnectorJars",
+    "oncran": true
+  },
+  {
+    "package": "DatabaseConnector",
+    "oncran": true
+  },
+  {
+    "package": "EvidenceSynthesis",
+    "oncran": true
+  },
+  {
+    "package": "Andromeda",
     "oncran": true
   }
 ]
