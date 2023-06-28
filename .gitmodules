@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Andromeda"]
 	path = Andromeda
 	url = https://github.com/ohdsi/andromeda
-	shallow = true
-	registered = true
 [submodule "Cyclops"]
 	path = Cyclops
 	url = https://github.com/ohdsi/cyclops
-	shallow = true
-	registered = true
 [submodule "DatabaseConnector"]
 	path = DatabaseConnector
 	url = https://github.com/ohdsi/databaseconnector
-	shallow = true
-	registered = true
 [submodule "DatabaseConnectorJars"]
 	path = DatabaseConnectorJars
 	url = https://github.com/ohdsi/databaseconnectorjars
-	shallow = true
-	registered = true
 [submodule "EmpiricalCalibration"]
 	path = EmpiricalCalibration
 	url = https://github.com/ohdsi/empiricalcalibration
-	shallow = true
-	registered = true
 [submodule "EvidenceSynthesis"]
 	path = EvidenceSynthesis
 	url = https://github.com/ohdsi/evidencesynthesis
-	shallow = true
-	registered = true
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
-	shallow = true
-	registered = true
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/ohdsi/sqlrender
-	shallow = true
-	registered = true
