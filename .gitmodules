@@ -5,6 +5,9 @@
 [submodule "Andromeda"]
 	path = Andromeda
 	url = https://github.com/ohdsi/andromeda
+[submodule "CirceR"]
+	path = CirceR
+	url = https://github.com/ohdsi/circer
 [submodule "CohortAlgebra"]
 	path = CohortAlgebra
 	url = https://github.com/ohdsi/cohortalgebra
