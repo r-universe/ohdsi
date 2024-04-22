@@ -1,0 +1,8 @@
+[
+  {
+    "package": "Eunomia",
+    "url": "https://github.com/ohdsi/Eunomia",
+    "via": ["FeatureExtraction"],
+    "from": "FeatureExtraction"
+  }
+]
