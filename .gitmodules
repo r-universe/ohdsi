@@ -26,6 +26,9 @@
 [submodule "EmpiricalCalibration"]
 	path = EmpiricalCalibration
 	url = https://github.com/ohdsi/empiricalcalibration
+[submodule "Eunomia"]
+	path = Eunomia
+	url = https://github.com/ohdsi/eunomia
 [submodule "EvidenceSynthesis"]
 	path = EvidenceSynthesis
 	url = https://github.com/ohdsi/evidencesynthesis
