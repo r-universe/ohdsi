@@ -32,6 +32,9 @@
 [submodule "EvidenceSynthesis"]
 	path = EvidenceSynthesis
 	url = https://github.com/ohdsi/evidencesynthesis
+[submodule "FeatureExtraction"]
+	path = FeatureExtraction
+	url = https://github.com/ohdsi/featureextraction
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
