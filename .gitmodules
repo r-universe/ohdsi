@@ -11,6 +11,9 @@
 [submodule "CohortAlgebra"]
 	path = CohortAlgebra
 	url = https://github.com/ohdsi/cohortalgebra
+[submodule "CohortConstructor"]
+	path = CohortConstructor
+	url = https://github.com/ohdsi/cohortconstructor
 [submodule "CohortExplorer"]
 	path = CohortExplorer
 	url = https://github.com/ohdsi/cohortexplorer
