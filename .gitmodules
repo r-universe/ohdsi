@@ -44,3 +44,6 @@
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/ohdsi/sqlrender
+[submodule "omock"]
+	path = omock
+	url = https://github.com/ohdsi/omock
