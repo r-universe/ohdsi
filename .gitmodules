@@ -41,6 +41,9 @@
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
+[submodule "ResultModelManager"]
+	path = ResultModelManager
+	url = https://github.com/ohdsi/resultmodelmanager
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/ohdsi/sqlrender
