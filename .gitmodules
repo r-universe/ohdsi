@@ -38,6 +38,9 @@
 [submodule "FeatureExtraction"]
 	path = FeatureExtraction
 	url = https://github.com/ohdsi/featureextraction
+[submodule "LocalControl"]
+	path = LocalControl
+	url = https://github.com/ohdsi/localcontrol
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
