@@ -17,6 +17,9 @@
 [submodule "CohortExplorer"]
 	path = CohortExplorer
 	url = https://github.com/ohdsi/cohortexplorer
+[submodule "CohortGenerator"]
+	path = CohortGenerator
+	url = https://github.com/ohdsi/cohortgenerator
 [submodule "Cyclops"]
 	path = Cyclops
 	url = https://github.com/ohdsi/cyclops
