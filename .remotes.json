@@ -4,11 +4,5 @@
     "url": "https://github.com/darwin-eu-dev/PatientProfiles",
     "via": ["CohortConstructor"],
     "from": "CohortConstructor"
-  },
-  {
-    "package": "omopgenerics",
-    "url": "https://github.com/darwin-eu-dev/omopgenerics",
-    "via": ["omock"],
-    "from": "omock"
   }
 ]
