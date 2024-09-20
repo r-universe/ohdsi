@@ -4,5 +4,11 @@
     "url": "https://github.com/darwin-eu-dev/PatientProfiles",
     "via": ["CohortConstructor"],
     "from": "CohortConstructor"
+  },
+  {
+    "package": "omock",
+    "url": "https://github.com/OHDSI/omock",
+    "via": ["CohortConstructor"],
+    "from": "CohortConstructor"
   }
 ]
