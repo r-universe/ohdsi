@@ -44,6 +44,9 @@
 [submodule "LocalControl"]
 	path = LocalControl
 	url = https://github.com/ohdsi/localcontrol
+[submodule "OmopSketch"]
+	path = OmopSketch
+	url = https://github.com/ohdsi/omopsketch
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
