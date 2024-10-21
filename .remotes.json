@@ -1,5 +1,12 @@
 [
   {
+    "package": "PatientProfiles",
+    "url": "https://github.com/darwin-eu-dev/PatientProfiles",
+    "via": ["OmopSketch"],
+    "branch": "issue_705",
+    "from": "OmopSketch"
+  },
+  {
     "package": "omopgenerics",
     "url": "https://github.com/darwin-eu-dev/omopgenerics",
     "via": ["OmopSketch"],
