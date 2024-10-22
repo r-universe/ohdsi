@@ -47,6 +47,9 @@
 [submodule "OmopSketch"]
 	path = OmopSketch
 	url = https://github.com/ohdsi/omopsketch
+[submodule "OmopViewer"]
+	path = OmopViewer
+	url = https://github.com/ohdsi/omopviewer
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
