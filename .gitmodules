@@ -68,5 +68,4 @@
 [submodule "omopgenerics"]
 	path = omopgenerics
 	url = https://github.com/darwin-eu-dev/omopgenerics
-	branch = mah_vl
 	registered = false

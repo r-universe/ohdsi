@@ -3,7 +3,6 @@
     "package": "omopgenerics",
     "url": "https://github.com/darwin-eu-dev/omopgenerics",
     "via": ["OmopSketch"],
-    "branch": "mah_vl",
     "from": "OmopSketch"
   }
 ]
