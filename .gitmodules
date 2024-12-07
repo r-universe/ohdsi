@@ -56,6 +56,9 @@
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
+[submodule "PhenotypeR"]
+	path = PhenotypeR
+	url = https://github.com/ohdsi/phenotyper
 [submodule "ResultModelManager"]
 	path = ResultModelManager
 	url = https://github.com/ohdsi/resultmodelmanager
