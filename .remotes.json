@@ -1,8 +1,0 @@
-[
-  {
-    "package": "omock",
-    "url": "https://github.com/ohdsi/omock",
-    "via": ["CohortConstructor"],
-    "from": "CohortConstructor"
-  }
-]
