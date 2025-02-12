@@ -56,6 +56,9 @@
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
+[submodule "PatientLevelPrediction"]
+	path = PatientLevelPrediction
+	url = https://github.com/ohdsi/patientlevelprediction
 [submodule "PhenotypeR"]
 	path = PhenotypeR
 	url = https://github.com/ohdsi/phenotyper
