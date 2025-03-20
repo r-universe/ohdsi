@@ -23,6 +23,9 @@
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/ohdsi/cohortgenerator
+[submodule "CohortPathways"]
+	path = CohortPathways
+	url = https://github.com/ohdsi/cohortpathways
 [submodule "CohortSymmetry"]
 	path = CohortSymmetry
 	url = https://github.com/ohdsi/cohortsymmetry
