@@ -74,6 +74,9 @@
 [submodule "ResultModelManager"]
 	path = ResultModelManager
 	url = https://github.com/ohdsi/resultmodelmanager
+[submodule "SelfControlledCaseSeries"]
+	path = SelfControlledCaseSeries
+	url = https://github.com/ohdsi/selfcontrolledcaseseries
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/ohdsi/sqlrender
