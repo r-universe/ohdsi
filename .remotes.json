@@ -1,12 +1,5 @@
 [
   {
-    "package": "Andromeda",
-    "url": "https://github.com/ohdsi/Andromeda",
-    "via": ["Cyclops"],
-    "branch": "2dd0c3a",
-    "from": "Cyclops"
-  },
-  {
     "package": "MeasurementDiagnostics",
     "url": "https://github.com/ohdsi/MeasurementDiagnostics",
     "via": ["PhenotypeR"],
