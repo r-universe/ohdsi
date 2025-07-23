@@ -1,8 +1,0 @@
-[
-  {
-    "package": "MeasurementDiagnostics",
-    "url": "https://github.com/ohdsi/MeasurementDiagnostics",
-    "via": ["PhenotypeR"],
-    "from": "PhenotypeR"
-  }
-]
