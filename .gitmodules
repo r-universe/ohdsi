@@ -53,6 +53,9 @@
 [submodule "LocalControl"]
 	path = LocalControl
 	url = https://github.com/ohdsi/localcontrol
+[submodule "MeasurementDiagnostics"]
+	path = MeasurementDiagnostics
+	url = https://github.com/ohdsi/measurementdiagnostics
 [submodule "OhdsiReportGenerator"]
 	path = OhdsiReportGenerator
 	url = https://github.com/ohdsi/ohdsireportgenerator
