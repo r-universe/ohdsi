@@ -1,0 +1,8 @@
+[
+  {
+    "package": "OmopViewer",
+    "url": "https://github.com/OHDSI/OmopViewer",
+    "via": ["OmopSketch"],
+    "from": "OmopSketch"
+  }
+]
