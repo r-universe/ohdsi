@@ -59,6 +59,9 @@
 [submodule "OhdsiReportGenerator"]
 	path = OhdsiReportGenerator
 	url = https://github.com/ohdsi/ohdsireportgenerator
+[submodule "OmopConstructor"]
+	path = OmopConstructor
+	url = https://github.com/ohdsi/omopconstructor
 [submodule "OmopSketch"]
 	path = OmopSketch
 	url = https://github.com/ohdsi/omopsketch
