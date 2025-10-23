@@ -62,6 +62,9 @@
 [submodule "OmopConstructor"]
 	path = OmopConstructor
 	url = https://github.com/ohdsi/omopconstructor
+[submodule "OmopOnSpark"]
+	path = OmopOnSpark
+	url = https://github.com/ohdsi/omoponspark
 [submodule "OmopSketch"]
 	path = OmopSketch
 	url = https://github.com/ohdsi/omopsketch
