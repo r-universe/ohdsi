@@ -4,5 +4,11 @@
     "url": "https://github.com/OHDSI/CohortConstructor",
     "via": ["PhenotypeR"],
     "from": "PhenotypeR"
+  },
+  {
+    "package": "OmopSketch",
+    "url": "https://github.com/OHDSI/OmopSketch",
+    "via": ["PhenotypeR"],
+    "from": "PhenotypeR"
   }
 ]
