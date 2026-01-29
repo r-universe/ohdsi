@@ -23,6 +23,9 @@
 [submodule "Cyclops"]
 	path = Cyclops
 	url = https://github.com/ohdsi/cyclops
+[submodule "DataQualityDashboard"]
+	path = DataQualityDashboard
+	url = https://github.com/ohdsi/dataqualitydashboard
 [submodule "DatabaseConnector"]
 	path = DatabaseConnector
 	url = https://github.com/ohdsi/databaseconnector
