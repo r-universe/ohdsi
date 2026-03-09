@@ -1,8 +1,0 @@
-[
-  {
-    "package": "CohortConstructor",
-    "url": "https://github.com/ohdsi/CohortConstructor",
-    "via": ["PhenotypeR"],
-    "from": "PhenotypeR"
-  }
-]
