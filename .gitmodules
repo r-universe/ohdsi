@@ -71,6 +71,9 @@
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/ohdsi/parallellogger
+[submodule "PatientGenerator"]
+	path = PatientGenerator
+	url = https://github.com/ohdsi/patientgenerator
 [submodule "PatientLevelPrediction"]
 	path = PatientLevelPrediction
 	url = https://github.com/ohdsi/patientlevelprediction
