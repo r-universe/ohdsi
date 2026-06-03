@@ -89,6 +89,10 @@
 [submodule "PhenotypeR"]
 	path = PhenotypeR
 	url = https://github.com/ohdsi/phenotyper
+[submodule "ROhdsiWebApi"]
+	path = ROhdsiWebApi
+	url = https://github.com/ohdsi/ROhdsiWebApi
+	registered = false
 [submodule "ResultModelManager"]
 	path = ResultModelManager
 	url = https://github.com/ohdsi/resultmodelmanager

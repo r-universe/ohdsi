@@ -1,0 +1,32 @@
+[
+  {
+    "package": "CohortGenerator",
+    "url": "https://github.com/ohdsi/CohortGenerator",
+    "via": ["PheValuator"],
+    "from": "PheValuator"
+  },
+  {
+    "package": "Eunomia",
+    "url": "https://github.com/ohdsi/Eunomia",
+    "via": ["PheValuator"],
+    "from": "PheValuator"
+  },
+  {
+    "package": "FeatureExtraction",
+    "url": "https://github.com/ohdsi/FeatureExtraction",
+    "via": ["PheValuator"],
+    "from": "PheValuator"
+  },
+  {
+    "package": "PatientLevelPrediction",
+    "url": "https://github.com/ohdsi/PatientLevelPrediction",
+    "via": ["PheValuator"],
+    "from": "PheValuator"
+  },
+  {
+    "package": "ROhdsiWebApi",
+    "url": "https://github.com/ohdsi/ROhdsiWebApi",
+    "via": ["PheValuator"],
+    "from": "PheValuator"
+  }
+]
