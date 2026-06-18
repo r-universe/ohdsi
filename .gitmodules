@@ -86,6 +86,9 @@
 [submodule "SelfControlledCaseSeries"]
 	path = SelfControlledCaseSeries
 	url = https://github.com/ohdsi/selfcontrolledcaseseries
+[submodule "SelfControlledCohort"]
+	path = SelfControlledCohort
+	url = https://github.com/ohdsi/selfcontrolledcohort
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/ohdsi/sqlrender
