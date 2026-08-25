@@ -17,6 +17,9 @@
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/ohdsi/cohortgenerator
+[submodule "CohortIncidence"]
+	path = CohortIncidence
+	url = https://github.com/ohdsi/cohortincidence
 [submodule "CohortMethod"]
 	path = CohortMethod
 	url = https://github.com/ohdsi/cohortmethod
